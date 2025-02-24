@@ -32,5 +32,9 @@ Contributions are welcome! Here are some guidelines:
 Released under the MIT License.
 
 ## Acknowledgments
-- Special thanks to [Samit Kumar Pal![viewer-2025-02-11T18:02:09](https://github.com/user-attachments/assets/21cf6ace-f5aa-4449-93bf-e8fbdc4f50d8)
-] for initial development support.
+- Special thanks to [Samit Kumar Pal] for initial development support.
+
+
+## supernovaremnant_png
+## ![viewer-2025-02-11T18:02:09](https://github.com/user-attachments/assets/9124737f-90d6-4684-8fe1-a44cca25223b)
+
